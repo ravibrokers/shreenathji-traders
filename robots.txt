@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ravibrokers.github.io/shreenathji-traders/sitemap.xml
